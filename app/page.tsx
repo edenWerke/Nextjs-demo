@@ -12,5 +12,5 @@
 //   );
 // }
 export default function Page(){
-  return <h1>Hello next.jsx</h1>
+  return <h1>Hello nexvvvt.jsx</h1>
 }

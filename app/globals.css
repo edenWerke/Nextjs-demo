@@ -23,4 +23,5 @@ body {
   background:#a026a2;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  padding:10rem;
 }
