@@ -2,7 +2,7 @@ import React from 'react'
 
 const UserPage =()=>{
     return (
-        <div>page edu</div>
+        <div>User page</div>
     )
 }
 export default UserPage;

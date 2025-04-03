@@ -11,6 +11,13 @@
 //     </main>
 //   );
 // }
-export default function Page(){
-  return <h1>Hello nexvvvt.jsx</h1>
+import Link from 'next/link';
+
+export default function Page() {
+  return (
+    <main>
+      <h1>Hello nexvvvt.jsx</h1>
+      <Link href="/user">Users</Link>
+    </main>
+  );
 }
