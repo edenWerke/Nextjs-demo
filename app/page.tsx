@@ -12,12 +12,13 @@
 //   );
 // }
 import Link from 'next/link';
-
+import ProductCard from './components/ProductCard'
 export default function Page() {
   return (
     <main>
       <h1>Hello nexvvvt.jsx</h1>
+      <ProductCard/>
       <Link href="/user">Users</Link>
     </main>
   );
-}
+}  
